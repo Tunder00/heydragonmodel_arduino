@@ -29,6 +29,7 @@
 14. go below the tabs and select deployment and select Arduino UNO Q export the model.
 15. to deploy you need to have both Arduino app lab + and vs code
 16. in app lab + you will select a already present model and edit the wake word as hey_dragon and run then test the wake word in the board the heart animation wil play.
+17. if you do not have the board to test your model you can also test your model in your browser also to know is it detecting the wake word or not
 
 this project was a part of course I got free from QUALCOMM 
 link: https://academy.qualcomm.com/course-catalog/AI-Upskilling-Certificate-Development-from-Model-to-App
